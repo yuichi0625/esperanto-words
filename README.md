@@ -1,4 +1,4 @@
-# Esperanto words annotated morphologically
+# Esperanto words segmented morphologically
 (This repository is under construction)
 
 # Links
