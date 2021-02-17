@@ -4024,7 +4024,6 @@ konatino	kon'at'in'o
 konatulo	kon'at'ul'o
 konatuloj	kon'at'ul'o'j
 konatulojn	kon'at'ul'o'j'n
-koncentrigho	kon'centr'iĝ'o
 konebla	kon'ebl'a
 konebleco	kon'ebl'ec'o
 konigas	kon'ig'as
@@ -4079,6 +4078,7 @@ koncentrigi	koncentr'ig'i
 koncentriĝas	koncentr'iĝ'as
 koncentriĝi	koncentr'iĝ'i
 koncentriĝis	koncentr'iĝ'is
+koncentrigho	koncentr'iĝ'o
 koncentriĝo	koncentr'iĝ'o
 koncentriĝoj	koncentr'iĝ'o'j
 koncentriĝojn	koncentr'iĝ'o'j'n

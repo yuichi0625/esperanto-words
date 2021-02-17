@@ -1,4 +1,3 @@
-oj	o'j
 ofinaĵo	o'fin'aĵ'o
 ofinaĵon	o'fin'aĵ'o'n
 oformo	o'form'o
@@ -437,6 +436,7 @@ oftiĝis	oft'iĝ'is
 oftalmologio	oftalm'olog'i'o
 ogivo	ogiv'o
 oho	oho
+oj	oj
 ojo	oj'o
 ojon	oj'o'n
 ojstro	ojstr'o
