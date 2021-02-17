@@ -1,11 +1,17 @@
-# Esperanto words segmented into morphemes
+# Esperanto words annotated into morphemes
 This repository contains Esperanto words segmented manually into morphemes.  
-Each row of the files in `annotations` contains `{word}\t{annotation}`.
+Each row of the files in `annotations` is `{word}\t{annotation}`.  
+Each word is annotated by '.
 
 There are some features you'd better keep in mind:
-- Some words have more than 1 annotation  
+- Word endings are seperated.  
+    e.g. katojn -> kat'o'j'n
+- Some words do not have regular word endings.  
+    e.g. kial, ties  
+    (FYI io/ia, kio/kia, ĉio/ĉia are seperated according to PIV)
+- Some words have more than 1 annotation.  
     e.g. farad'o / far'ad'o
-- Some annotations have more than 1 word  
+- Some annotations have more than 1 word.  
     e.g. koncentriĝo / koncentrigho
 
 # Links
