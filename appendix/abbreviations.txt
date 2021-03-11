@@ -1,0 +1,154 @@
+AEA	Australian Esperanto Association
+BEA	Brita Esperanto Asocio
+CO	Centra Oficejo
+E	Esperanto
+Eo	Esperanto
+E-o	Esperanto
+EAB	Esperanto Asocio de Britio
+ELNA	Esperanto Ligo por Norda Ameriko
+ESK	Esperanto sub la Suda Kruco
+FK	Fundamenta Krestomatio
+HdE	Heroldo de Esperanto
+IF	Internacia Festivalo
+IFEA	Itala Fervojista Esperanto Asocio
+IFEF	Internacia Fervojista Esperanto Federacio
+IKU	Internacia Kongresa Universitato
+IS	Internacia Seminario
+ISE	Internacia Semajnfino Esperantista
+KCE	Kultura Centro Esperantista
+KCE	Kultura Centro de Esperanto
+KD	kompakta disko
+KD	kompaktdisko
+K.E.	Komuna Erao
+KEV	Konciza Etimologia Vortaro
+KSM	Koresponda Servo Mondskala
+K-io	Kompanio
+Ko.	Kompanio
+LD	lumdisko
+LG	La Gazeto
+LI	Lingvo Internacia
+LKK	Loka Kongresa Komitato
+LLZ	Lazaro Ludoviko Zamenhof
+LOdE	La Ondo de Esperanto
+N.B.	Notu bone
+N.d.l.R.	Noto de la Redakcio
+NASK	Nord-Amerika Somera Kursaro
+NPIV	Nova Plena Ilustrita Vortaro
+P.S.	Posta Skribo
+PEFA	Pola Esperanto Fervojista Asocio
+PIV	Plena Ilustrita Vortaro
+PMEG	Plena Manlibro de Esperanta Gramatiko
+PV	Plena Vortaro
+S-ta	Sankta
+SAT	Sennacieca Asocio Tutmonda
+TAKE	Tutamerika Kongreso de Esperanto
+TTT	Tut-Tera Teksaĵo
+UEA	Universala Esperanto-Asocio
+UK	Universala Kongreso
+UL	Unua Libro
+UV	Universala Vortaro
+Z	Zamenhof
+ZEO	Zamenhof Esperanto Objekto
+a.K.	antaŭ Kristo
+a.K.E.	antaŭ Komuna Erao
+akk	ankaŭ konata kiel
+anst	anstataŭ
+anst.	anstataŭ
+art.	artikolo
+atm.	antaŭtagmeze
+b.t.	bonvolu turni
+bk.	bildkarto
+bv.	bonvolu
+ĉ.	ĉio
+ĉ.	ĉirkaŭ
+ĉ.	ĉiuj
+ĉap	ĉapitro
+d-rino	doktorino
+dro	doktoro
+d-ro	doktoro
+ekz	ekzemple
+ekz.	ekzemple
+ekz-e	ekzemple
+ekz	ekzemplero
+ekz.	ekzemplero
+ekz-ro	ekzemplero
+eld.	eldoninto
+eld.	eldonis
+eld.	eldonita
+f-ino	fraŭlino
+f-lo	fraŭlo
+ges-anoj	gesamideanoj
+ges-roj	gesinjoroj
+i.a.	inter aliaj
+i.a.	interalie
+i.r.p.k.	internacia respondkupono
+il.	ilustrita
+inĝ	inĝeniero
+inĝ.	inĝeniero
+inkl.	inkluzive
+j.	jaro
+jc.	jarcento
+k-do	kamarado
+k.	kaj
+k.e.p.	kiel eble plej
+k.e.p.b.	kiel eble plej baldaŭ
+ka	kaj aliaj
+k.a.	kaj aliaj
+kc	kaj cetere
+k.c.	kaj cetere
+kp.	komparu
+ks	kaj similaj
+k.s.	kaj similaj
+ks	kaj simile
+k.s.	kaj simile
+ksk	kaj sekvantaj
+ktp	kaj tiel plu
+k.t.p.	kaj tiel plu
+mag	magistro
+mag.	magistro
+nro	numero
+n-ro	numero
+p	paĝo
+p.	paĝo
+p.K.	post Kristo
+p.a.	per adreso
+par	paragrafo
+pĝ.	paĝo
+pk.	poŝtkarto
+pm.	poŝtmarko
+pr	proksimume
+prez	prezidanto
+prez.	prezidanto
+prof	profesoro
+prof.	profesoro
+proks.	proksimume
+ps.	pseŭdonimo
+ptm.	posttagmeze
+r.p.k.	respondkupono
+red.	redakcio
+red.	redaktis
+red.	redaktoro
+resp	respektive
+resp.	respektive
+rig	rigardu
+rim.	rimarkigo
+rim.	rimarko
+sano	samideano
+s-ano	samideano
+sek.	sekretario
+sekr.	sekretario
+sino	sinjorino
+s-ino	sinjorino
+sro	sinjoro
+s-ro	sinjoro
+te	tio estas
+t.e.	tio estas
+tm.	tutmonde
+tn	tiel nomata
+t.n.	tiel nomata
+trad.	tradukinto
+trad.	tradukis
+trad.	tradukita
+v.	vidu
+vd.	vidu
+vol.	volumo
