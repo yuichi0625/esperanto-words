@@ -110,10 +110,10 @@ nro	numero
 n-ro	numero
 p	paĝo
 p.	paĝo
+pĝ.	paĝo
 p.K.	post Kristo
 p.a.	per adreso
 par	paragrafo
-pĝ.	paĝo
 pk.	poŝtkarto
 pm.	poŝtmarko
 pr	proksimume
