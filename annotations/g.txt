@@ -424,8 +424,8 @@ geedzecoj	ge'edz'ec'o'j
 geedzecon	ge'edz'ec'o'n
 geedzeckontrakto	ge'edz'ec'kontrakt'o
 geedzigo	ge'edz'ig'o
-geedziĝa	ge'edz'iĝ'a
 geedzigha	ge'edz'iĝ'a
+geedziĝa	ge'edz'iĝ'a
 geedziĝaj	ge'edz'iĝ'a'j
 geedziĝan	ge'edz'iĝ'a'n
 geedziĝas	ge'edz'iĝ'as
@@ -889,11 +889,6 @@ glacoj	glac'o'j
 glacojn	glac'o'j'n
 glacon	glac'o'n
 glacea	glace'a
-glaĉera	glaĉer'a
-glaĉeraj	glaĉer'a'j
-glaĉero	glaĉer'o
-glaĉeroj	glaĉer'o'j
-glaĉerojn	glaĉer'o'j'n
 glacia	glaci'a
 glaciaj	glaci'a'j
 glaciajn	glaci'a'j'n
@@ -930,6 +925,11 @@ glacimontoj	glaci'mont'o'j
 glaciriveroj	glaci'river'o'j
 glacitavolo	glaci'tavol'o
 glacitavoloj	glaci'tavol'o'j
+glaĉera	glaĉer'a
+glaĉeraj	glaĉer'a'j
+glaĉero	glaĉer'o
+glaĉeroj	glaĉer'o'j
+glaĉerojn	glaĉer'o'j'n
 gladas	glad'as
 gladi	glad'i
 gladis	glad'is
@@ -1867,9 +1867,6 @@ gumon	gum'o'n
 guruo	guru'o
 guruoj	guru'o'j
 guruon	guru'o'n
-guŝo	guŝ'o
-guŝoj	guŝ'o'j
-guŝojn	guŝ'o'j'n
 gusta	gust'a
 gustas	gust'as
 guste	gust'e
@@ -1895,6 +1892,9 @@ gustumado	gust'um'ad'o
 gustumante	gust'um'ant'e
 gustave	gustav'e
 gustavo	gustav'o
+guŝo	guŝ'o
+guŝoj	guŝ'o'j
+guŝojn	guŝ'o'j'n
 gutas	gut'as
 gute	gut'e
 gutis	gut'is
@@ -1984,8 +1984,6 @@ gvidlinio	gvid'lini'o
 gvidlinioj	gvid'lini'o'j
 gvidliniojn	gvid'lini'o'j'n
 gvidlinion	gvid'lini'o'n
-gvidmaŝsino	gvid'maŝin'o
-gvidmaŝsinon	gvid'maŝin'o'n
 gvidorganoj	gvid'organ'o'j
 gvidota	gvid'ot'a
 gvidrezolucio	gvid'rezoluci'o

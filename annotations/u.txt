@@ -1,17 +1,4 @@
 uverbo	u'verb'o
-uea	uea
-ueailei	uea'ilei
-ueatejo	uea'tejo
-ueaano	uea'an'o
-ueaanoj	uea'an'o'j
-ueaestraro	uea'estr'ar'o
-ueaestrarano	uea'estr'ar'an'o
-ueaestraranoj	uea'estr'ar'an'o'j
-ueagvidantoj	uea'gvid'ant'o'j
-ueakomitato	uea'komitat'o
-ueakonto	uea'kont'o
-ueamembroj	uea'membr'o'j
-ueaprezidanto	uea'prezid'ant'o
 uedo	ued'o
 uganda	ugand'a
 ugando	ugand'o
@@ -90,7 +77,6 @@ umbilikon	umbilik'o'n
 umbilikkordosango	umbilik'kord'o'sang'o
 umea	ume'a
 umeo	ume'o
-umea	umea
 umlaŭto	umlaŭt'o
 uncialo	uncial'o
 ungo	ung'o
@@ -221,8 +207,8 @@ unuatempe	unu'a'temp'e
 unuavica	unu'a'vic'a
 unuavice	unu'a'vic'e
 unuavide	unu'a'vid'e
-unuaĵo	unu'aĵ'o
 unuajaraj	unu'ajar'a'j
+unuaĵo	unu'aĵ'o
 unuakta	unu'akt'a
 unuanima	unu'anim'a
 unuanimaj	unu'anim'a'j

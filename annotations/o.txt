@@ -993,8 +993,8 @@ opiniesprimo	opini'esprim'o
 opiniita	opini'it'a
 opiniitaj	opini'it'a'j
 opiniite	opini'it'e
-opinioŝanĝo	opini'o'ŝanĝ'o
 opiniosondadoj	opini'o'sond'ad'o'j
+opinioŝanĝo	opini'o'ŝanĝ'o
 opinisondoj	opini'sond'o'j
 opinisondado	opini'sond'ad'o
 opinisondadoj	opini'sond'ad'o'j
@@ -1129,6 +1129,9 @@ orakoloj	orakol'o'j
 orakolojn	orakol'o'j'n
 orakolon	orakol'o'n
 orakolejo	orakol'ej'o
+orangutanoj	orangutan'o'j
+orangutango	orangutang'o
+orangutangoj	orangutang'o'j
 oranĝa	oranĝ'a
 oranĝaj	oranĝ'a'j
 oranĝajn	oranĝ'a'j'n
@@ -1151,9 +1154,6 @@ oranĝosuko	oranĝ'o'suk'o
 oranĝosukon	oranĝ'o'suk'o'n
 oranĝujoj	oranĝ'uj'o'j
 oranĝerio	oranĝeri'o
-orangutanoj	orangutan'o'j
-orangutango	orangutang'o
-orangutangoj	orangutang'o'j
 oratora	orator'a
 oratoro	orator'o
 oratoroj	orator'o'j
@@ -1636,7 +1636,6 @@ ostaĝoj	ostaĝ'o'j
 ostaĝojn	ostaĝ'o'j'n
 ostaĝon	ostaĝ'o'n
 ostendo	ostend'o
-osteoporozo	ostoporoz'o
 ostoporozo	ostoporoz'o
 ostro	ostr'o
 ostroj	ostr'o'j

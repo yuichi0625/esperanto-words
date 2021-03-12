@@ -269,15 +269,11 @@
 ĝendarmaron	ĝendarm'ar'o'n
 ĝendarmejo	ĝendarm'ej'o
 ĝenerala	ĝeneral'a
-ĝenelaraj	ĝeneral'a'j
 ĝeneralaj	ĝeneral'a'j
 ĝeneralajn	ĝeneral'a'j'n
 ĝeneralan	ĝeneral'a'n
-ĝenralan	ĝeneral'a'n
 ĝeneralas	ĝeneral'as
-ĝenerake	ĝeneral'e
 ĝenerale	ĝeneral'e
-ĝenerele	ĝeneral'e
 ĝeneralo	ĝeneral'o
 ĝeneralaĵo	ĝeneral'aĵ'o
 ĝeneralaĵoj	ĝeneral'aĵ'o'j
@@ -498,7 +494,6 @@
 ĝermanlingvaj	ĝerman'lingv'a'j
 ĝermocida	ĝermocid'a
 ĝeto	ĝet'o
-ĝeteoj	ĝet'o'j
 ĝetoj	ĝet'o'j
 ĝeton	ĝet'o'n
 ĝi	ĝi
@@ -569,7 +564,6 @@
 ĝinano	ĝin'an'o
 ĝinregno	ĝin'regn'o
 ĝingisĥano	ĝingis'ĥan'o
-ĝinĝisĥano	ĝingis'ĥan'o
 ĝinzo	ĝinz'o
 ĝinzoj	ĝinz'o'j
 ĝinzojn	ĝinz'o'j'n
@@ -618,9 +612,9 @@
 ĝisatingis	ĝis'ating'is
 ĝisatingos	ĝis'ating'os
 ĝisbaza	ĝis'baz'a
+ĝiscindre	ĝis'cindr'e
 ĝisĉiaman	ĝis'ĉiam'a'n
 ĝisĉiele	ĝis'ĉiel'e
-ĝiscindre	ĝis'cindr'e
 ĝisdata	ĝis'dat'a
 ĝisdataj	ĝis'dat'a'j
 ĝisdatajn	ĝis'dat'a'j'n
@@ -754,11 +748,11 @@
 ĝissange	ĝis'sang'e
 ĝissata	ĝis'sat'a
 ĝissate	ĝis'sat'e
-ĝisŝaŭme	ĝis'ŝaŭm'e
 ĝisstreko	ĝis'strek'o
 ĝisstrekon	ĝis'strek'o'n
-ĝisŝultre	ĝis'ŝultr'e
 ĝissupre	ĝis'supr'e
+ĝisŝaŭme	ĝis'ŝaŭm'e
+ĝisŝultre	ĝis'ŝultr'e
 ĝistalia	ĝis'tali'a
 ĝistalie	ĝis'tali'e
 ĝistede	ĝis'ted'e
@@ -774,7 +768,6 @@
 ĝisveturis	ĝis'vetur'is
 ĝisvivas	ĝis'viv'as
 ĝisvivi	ĝis'viv'i
-ĝivivi	ĝis'viv'i
 ĝisvivis	ĝis'viv'is
 ĝisvivos	ĝis'viv'os
 ĝisvivus	ĝis'viv'us

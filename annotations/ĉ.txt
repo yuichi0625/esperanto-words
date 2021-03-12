@@ -194,7 +194,6 @@
 ĉeestajn	ĉe'est'a'j'n
 ĉeestan	ĉe'est'a'n
 ĉeestas	ĉe'est'as
-ĉestas	ĉe'est'as
 ĉeeste	ĉe'est'e
 ĉeesti	ĉe'est'i
 ĉeestis	ĉe'est'is
@@ -275,10 +274,10 @@
 ĉefavantaĝo	ĉef'avantaĝ'o
 ĉefavantaĝoj	ĉef'avantaĝ'o'j
 ĉefbiblioteko	ĉef'bibliotek'o
-ĉefĉambro	ĉef'ĉambr'o
 ĉefcelo	ĉef'cel'o
 ĉefceloj	ĉef'cel'o'j
 ĉefcelebranto	ĉef'celebr'ant'o
+ĉefĉambro	ĉef'ĉambr'o
 ĉefdelegito	ĉef'deleg'it'o
 ĉefdio	ĉef'di'o
 ĉefdiferenco	ĉef'diferenc'o
@@ -330,8 +329,8 @@
 ĉefkialoj	ĉef'kial'o'j
 ĉefkomando	ĉef'komand'o
 ĉefkomandanto	ĉef'komand'ant'o
-ĉefkomponento	ĉef'kompon'ant'o
-ĉefkomponentoj	ĉef'kompon'ant'o'j
+ĉefkomponento	ĉef'komponent'o
+ĉefkomponentoj	ĉef'komponent'o'j
 ĉefkomunikiloj	ĉef'komunik'il'o'j
 ĉefkonduktilo	ĉef'kondukt'il'o
 ĉefkonduktiloj	ĉef'kondukt'il'o'j
@@ -416,12 +415,12 @@
 ĉefsidejon	ĉef'sid'ej'o'n
 ĉefsidejita	ĉef'sid'ej'it'a
 ĉefsidejitaj	ĉef'sid'ej'it'a'j
-ĉefŝoseo	ĉef'ŝose'o
-ĉefŝoseoj	ĉef'ŝose'o'j
 ĉefstabejo	ĉef'stab'ej'o
 ĉefstacidomo	ĉef'staci'dom'o
 ĉefstrato	ĉef'strat'o
 ĉefstratoj	ĉef'strat'o'j
+ĉefŝoseo	ĉef'ŝose'o
+ĉefŝoseoj	ĉef'ŝose'o'j
 ĉeftabulo	ĉef'tabul'o
 ĉeftasko	ĉef'task'o
 ĉefteksto	ĉef'tekst'o
@@ -464,7 +463,6 @@
 ĉefvorto	ĉef'vort'o
 ĉefvorton	ĉef'vort'o'n
 ĉefzorgo	ĉef'zorg'o
-ĉeha	ĉeĥ'a
 ĉeĥa	ĉeĥ'a
 ĉeĥaj	ĉeĥ'a'j
 ĉeĥajn	ĉeĥ'a'j'n
@@ -553,7 +551,6 @@
 ĉerkon	ĉerk'o'n
 ĉerkejoj	ĉerk'ej'o'j
 ĉerkisto	ĉerk'ist'o
-ĉerokea	ĉerok'a
 ĉeroko	ĉerok'o
 ĉerokoj	ĉerok'o'j
 ĉerpas	ĉerp'as
@@ -726,8 +723,8 @@
 ĉitien	ĉi'tie'n
 ĉition	ĉi'tio'n
 ĉitiuj	ĉi'tiu'j
-ĉitiujn	ĉi'tiu'jn
 ĉitiun	ĉi'tiu'n
+ĉitiujn	ĉi'tiu'j'n
 ĉivespera	ĉi'vesper'a
 ĉivespere	ĉi'vesper'e
 ĉivintre	ĉi'vintr'e
@@ -975,7 +972,6 @@
 ĉirpetas	ĉirp'et'as
 ĉiu	ĉiu
 ĉiuj	ĉiu'j
-ĉiujn	ĉiu'jn
 ĉiun	ĉiu'n
 ĉiuaĝaj	ĉiu'aĝ'a'j
 ĉiudimanĉe	ĉiu'dimanĉ'e
@@ -991,6 +987,7 @@
 ĉiuflankecon	ĉiu'flank'ec'o'n
 ĉiufoje	ĉiu'foj'e
 ĉiuhore	ĉiu'hor'e
+ĉiujn	ĉiu'j'n
 ĉiujara	ĉiu'jar'a
 ĉiujaraj	ĉiu'jar'a'j
 ĉiujarajn	ĉiu'jar'a'j'n

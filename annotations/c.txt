@@ -184,7 +184,6 @@ centro	centr'o
 centroj	centr'o'j
 centrojn	centr'o'j'n
 centron	centr'o'n
-centafrika	centr'afrik'a
 centrafrika	centr'afrik'a
 centrafriko	centr'afrik'o
 centramerika	centr'amerik'a

@@ -18,9 +18,9 @@ hafnio	hafni'o
 haga	hag'a
 hagen	hag'e'n
 hago	hag'o
-haĝo	haĝ'o
 hagiografoj	hagiograf'o'j
 hagiografioj	hagiograf'i'o'j
+haĝo	haĝ'o
 haitia	haiti'a
 haitiaj	haiti'a'j
 haitian	haiti'a'n
@@ -222,9 +222,6 @@ harpio	harpi'o
 harpioj	harpi'o'j
 harpuno	harpun'o
 harpunoj	harpun'o'j
-haŝio	haŝi'o
-haŝiŝo	haŝiŝ'o
-haŝiŝon	haŝiŝ'o'n
 hasta	hast'a
 hastaj	hast'a'j
 hastan	hast'a'n
@@ -240,6 +237,9 @@ hastante	hast'ant'e
 hasteco	hast'ec'o
 hastema	hast'em'a
 hasthoro	hast'hor'o
+haŝio	haŝi'o
+haŝiŝo	haŝiŝ'o
+haŝiŝon	haŝiŝ'o'n
 haŭsoj	haŭs'o'j
 haŭta	haŭt'a
 haŭtaj	haŭt'a'j
@@ -364,10 +364,6 @@ hedero	heder'o
 hedonismo	hedonism'o
 hedonisto	hedonist'o
 hefesto	hefest'o
-heĝo	heĝ'o
-heĝoj	heĝ'o'j
-heĝon	heĝ'o'n
-heĝfondusoj	heĝ'fondus'o'j
 hegemonia	hegemoni'a
 hegemoniaj	hegemoni'a'j
 hegemonian	hegemoni'a'n
@@ -376,6 +372,10 @@ hegemonie	hegemoni'e
 hegemoniis	hegemoni'is
 hegemonio	hegemoni'o
 hegemonion	hegemoni'o'n
+heĝo	heĝ'o
+heĝoj	heĝ'o'j
+heĝon	heĝ'o'n
+heĝfondusoj	heĝ'fondus'o'j
 hejma	hejm'a
 hejmaj	hejm'a'j
 hejmajn	hejm'a'j'n

@@ -79,7 +79,6 @@
 ĥikvadratitdistribuojn	ĥi'kvadrat'it'distribu'o'j'n
 ĥikvadratittesto	ĥi'kvadrat'it'test'o
 ĥiokvadrato	ĥi'o'kvadrat'o
-ĥierarkio	hierarki'o
 ĥilo	ĥil'o
 ĥimena	ĥimen'a
 ĥimeno	ĥimen'o

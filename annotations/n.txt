@@ -2756,6 +2756,8 @@ novzelando	nov'zeland'o
 novzelandon	nov'zeland'o'n
 novzelandanoj	nov'zeland'an'o'j
 novao	nova'o
+novalis	noval'is
+novalo	noval'o
 novalis	novalis
 novelo	novel'o
 noveloj	novel'o'j

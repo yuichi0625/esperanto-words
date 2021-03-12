@@ -213,8 +213,8 @@ zirkonia	zirkoni'a
 zirkoniaj	zirkoni'a'j
 zirkonio	zirkoni'o
 zirkoniodioksido	zirkoni'o'di'oksid'o
-zirkoniohidrido	zirkoni'o'hidrid'o
-zirkoniohidridoj	zirkoni'o'hidrid'o'j
+zirkoniohidrido	zirkoni'o'hidr'id'o
+zirkoniohidridoj	zirkoni'o'hidr'id'o'j
 zizelo	zizel'o
 zizeloj	zizel'o'j
 zizelon	zizel'o'n
@@ -230,10 +230,10 @@ zoobestoj	zo'o'best'o'j
 zoodirektoro	zo'o'direktor'o
 zoofilio	zo'o'fili'o
 zoofilion	zo'o'fili'o'n
-zooĝardenoj	zo'o'ĝarden'o'j
-zooĝardenon	zo'o'ĝarden'o'n
 zoogeografiaj	zo'o'geograf'i'a'j
 zoogeografio	zo'o'geograf'i'o
+zooĝardenoj	zo'o'ĝarden'o'j
+zooĝardenon	zo'o'ĝarden'o'n
 zooidoj	zo'o'id'o'j
 zoolanda	zo'o'land'a
 zoolandan	zo'o'land'a'n
