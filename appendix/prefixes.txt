@@ -16,6 +16,7 @@ heksa
 hepta
 hiper
 hipo
+infra
 inter
 kilo
 kun
@@ -23,6 +24,7 @@ mal
 met
 mis
 mono
+nano
 ne
 nona
 okta
@@ -37,7 +39,9 @@ pseŭdo
 re
 retro
 sen
+seskvi
 super
 tetra
 tra
 tri
+ultra
